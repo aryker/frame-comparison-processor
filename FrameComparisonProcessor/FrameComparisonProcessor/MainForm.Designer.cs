@@ -83,6 +83,7 @@
             // 
             // frameComparisonThresholdNumeric
             // 
+            this.frameComparisonThresholdNumeric.DecimalPlaces = 4;
             this.frameComparisonThresholdNumeric.Location = new System.Drawing.Point(183, 56);
             this.frameComparisonThresholdNumeric.Name = "frameComparisonThresholdNumeric";
             this.frameComparisonThresholdNumeric.Size = new System.Drawing.Size(120, 20);
